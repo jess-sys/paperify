@@ -96,6 +96,8 @@ gpg --symmetric file.txt
 ```
 Then use `file.txt.gpg` in paperify. 
 
+Coming soon : encryption and decryption from paperify.sh/digitallify.sh (key or password).
+
 ## License
 Peperify is licensed in GPL-3.0
 
